@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I’m currently working on ...
+### I’m currently working on React
+### I’m learning Node.js
 
 <!--
 **AMmetro/AMmetro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
