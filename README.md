@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently working on React
+### I’m currently working on Frontend React
 ### I’m learning Node.js
 
 <!--
